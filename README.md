@@ -22,18 +22,20 @@
 ## 
 
 <div> 
-  <a href="https://discord.gg/uKj6BcjW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/miguel-brandão-207010259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:miguellbproductions@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  ![snake gif](https://github.com/MiguelbProductions/MiguelbProductions/blob/output/github-contribution-grid-snake.gif)
-
+    <a href="https://discord.gg/uKj6BcjW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/miguel-brandão-207010259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:miguellbproductions@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<div>
+  <br> Currently I work on the following themes: <br>
+    - Web Development [Full-Stack] 🌐 <br>
+    - Making games on Godot, GameMaker, Construct and Unity (I intend to learn how to use Unreal Engine as soon as possible) 🎮 <br>
+    - Development of bots for websites and social networks 🤖 <br>
+    - Development of any kind of application. 📱 <br>
+</div>  
 
   
+  ![snake gif](https://github.com/MiguelbProductions/MiguelbProductions/blob/output/github-contribution-grid-snake.svg)
   
-Currently I work on the following themes:
-  - Web Development [Full-Stack] 🌐
-  - Making games on Godot, GameMaker, Construct and Unity (I intend to learn how to use Unreal Engine as soon as possible) 🎮
-  - Development of bots for websites and social networks 🤖
-  - Development of any kind of application. 📱
+  
+
