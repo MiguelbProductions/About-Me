@@ -1,10 +1,21 @@
-### Hiii everyone! My name is Miguel Brandão. :wave:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+Github!😃;My+Name+is+Miguel+Brandão.;I'm+16+years+old.;I'm+from+Portugal.)](https://git.io/typing-svg)
 
 <div align="center"> <br>
   <a href="https://github.com/MiguelbProductions">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelbProductions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelbProductions&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<br>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MiguelbProductions&bg_color=0d1117&color=1E90FF&line=6495ED&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelbProductions&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,15 +38,19 @@
     <a href = "mailto:miguellbproductions@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div>
-  <br> Currently I work on the following themes: <br>
-    - Web Development [Full-Stack] 🌐 <br>
-    - Making games on Godot, GameMaker, Construct and Unity (I intend to learn how to use Unreal Engine as soon as possible) 🎮 <br>
-    - Development of bots for websites and social networks 🤖 <br>
-    - Development of any kind of application. 📱 <br>
+  <h3>
+    <br> Currently I work on the following themes: <br>
+  </h3>
+  <h4>
+      - Web Development [Full-Stack] 🌐 <br>
+      - Making games on Godot, GameMaker, Construct and Unity (I intend to learn how to use Unreal Engine as soon as possible) 🎮 <br>
+      - Development of bots for websites and social networks 🤖 <br>
+      - Development of any kind of application. 📱 <br>
+  </h4>
 </div>  
 
   
-  ![snake gif](https://github.com/MiguelbProductions/MiguelbProductions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MiguelbProductions/MiguelbProductions/blob/output/github-contribution-grid-snake.svg)
   
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
