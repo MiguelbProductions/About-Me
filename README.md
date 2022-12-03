@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+Github!😃;My+Name+is+Miguel+Brandão.;I'm+16+years+old.;I'm+from+Portugal.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github!😃;My+Name+is+Miguel+Brandão.;I'm+16+years+old.;I'm+from+Portugal.)](https://git.io/typing-svg)
 
 <div align="center"> <br>
   <a href="https://github.com/MiguelbProductions">
@@ -9,9 +9,6 @@
 </div>
 
 <br>
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MiguelbProductions&bg_color=0d1117&color=1E90FF&line=6495ED&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MiguelbProductions&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
