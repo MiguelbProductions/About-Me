@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github!😃;My+Name+is+Miguel+Brandão.;I'm+16+years+old.;I'm+from+Portugal.)](https://git.io/typing-svg)
 
-<div align="center"> <br>
-  <a href="https://github.com/MiguelbProductions">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelbProductions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelbProductions&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <br>
 
