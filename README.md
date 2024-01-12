@@ -8,9 +8,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelbProductions&layout=compact&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MiguelbProductions/GGLessons-DiscordBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelbProductions&repo=Freelance-Website&layout=compact&theme=tokyonight" />
-  </a>
 </div> <br><br>
 
 <p align="center">
